@@ -37,20 +37,7 @@ Nous avons créé un algorithme qui tente de trouver TOUS les chemins possibles 
 
 ![EFREI_top_titles_I](https://github.com/user-attachments/assets/163e7b43-0def-42f8-a104-ab85d3c21549)
 
-## 🛠️ Installation et utilisation
-
-Pour mener votre propre enquête :
-
-```bash
-# Clonez le repo
-git clone https://github.com/votre_username/debunkolicard.git
-
-# Installez les dépendances
-pip install -r requirements.txt
-
-# Lancez l'outil de débunkage
-python debunk.py
-```
+## 🛠️ Utilisation
 
 Options disponibles :
 ```
